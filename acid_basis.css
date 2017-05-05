@@ -1,0 +1,38 @@
+body { background-color: gray; }
+table, td {   border: 0px solid black; margin-left: 36%; padding: 11px; border-collapse: collapse;
+   text-align: left; width: 350px; color: white;
+}
+#one { background-color: rgb(51, 156, 255); }
+
+#two { background-color: rgb(77, 169, 255); }
+
+#three { background-color: rgb(102, 181, 255); }     
+
+#four { background-color: rgb(128, 193, 255); }
+
+#five { background-color: rgb(153, 206, 255); }
+
+#six { background-color: rgb(179, 218, 255); }
+
+#seven { background-color: rgb(204, 230, 255); }
+
+#eight { background-color: rgb(0, 204, 102); }
+
+#nine { background-color: rgb(255, 204, 230); }
+
+#ten { background-color: rgb(255, 179, 218); }
+
+#eleven { background-color: rgb(255, 153, 206); }
+
+#twelve { background-color: rgb(255, 128, 193); }
+
+#thirteen { background-color: rgb(255, 102, 181); }
+
+#fourteen { background-color: rgb(255, 77, 169); }
+
+#fifteen { background-color: rgb(255, 51, 156); }
+
+#sixteen { background-color: rgb(255, 26, 144); }
+
+
+
